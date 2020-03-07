@@ -4,7 +4,7 @@ Análise de Dados Exploratória entre salários de duas empresas fictícias usan
 
 Esse projeto foi criado para um trabalho do Curso de Pós graduação em Finanças e Estatística - FAVENI
 
-O obejetivo dessa análise é mostrar que nem sempre a média salarial de uma empresa nos mostra dados suficientes para tirarmos conclusões.
+O objetivo dessa análise é mostrar que nem sempre a média salarial de uma empresa nos mostra dados suficientes para tirarmos conclusões.
 
 Os dado presentes na planilha são fictícios e a foram analisados as seguintes características:
 
