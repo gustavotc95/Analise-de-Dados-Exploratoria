@@ -1,6 +1,6 @@
 # Análise de Dados Exploratória
 
-Análise de Dados Exploratória entre salários de duas empresas fictícias usando Excel 
+Análise de Dados Exploratória entre salários de duas empresas fictícias usando Excel e posteriormente implementada em python
 
 Esse projeto foi criado para um trabalho do Curso de Pós graduação em Finanças e Estatística - FAVENI
 
